@@ -14,40 +14,40 @@ export default hopeTheme({
 
 	logo: '/logo.svg',
 
-	repo: 'vuepress-theme-hope/vuepress-theme-hope',
+	repo: 'https://github.com/MisterBowie',
 
-	docsDir: 'demo/theme-docs/src',
+	// docsDir: 'demo/theme-docs/src',
 
 	pageInfo: ['Author', 'Original', 'Date', 'Category', 'Tag', 'ReadingTime'],
 
 	locales: {
-		'/': {
-			// navbar
-			navbar: enNavbar,
+		// '/': {
+		// 	// navbar
+		// 	navbar: enNavbar,
 
-			// sidebar
-			sidebar: enSidebar,
+		// 	// sidebar
+		// 	sidebar: enSidebar,
 
-			footer: 'Default footer',
+		// 	footer: 'Default footer',
 
-			displayFooter: true,
+		// 	displayFooter: true,
 
-			metaLocales: {
-				editLink: 'Edit this page on GitHub',
-			},
-		},
+		// 	metaLocales: {
+		// 		editLink: 'Edit this page on GitHub',
+		// 	},
+		// },
 
 		/**
 		 * Chinese locale config
 		 */
-		'/zh/': {
+		'/': {
 			// navbar
 			navbar: zhNavbar,
 
 			// sidebar
 			sidebar: zhSidebar,
 
-			footer: '默认页脚',
+			footer: `<a href="https://beian.miit.gov.cn/#/Integrated/index" target="_blank" rel="noopener noreferrer">蜀 ICP 备 18024828 号-2</a> | MIT Licensed | Copyright © 2022-present Mr.Shu`,
 
 			displayFooter: true,
 
