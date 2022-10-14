@@ -99,7 +99,8 @@ features:
     details: 包括图标支持、全屏按钮、返回顶部按钮等
     link: https://vuepress-theme-hope.github.io/v2/zh/guide/feature/
 copyright: false
-footer: MIT Licensed | Copyright © 2019-present Mr.Hope
+footer: <a href="https://beian.miit.gov.cn/#/Integrated/index" target="_blank" rel="noopener noreferrer">蜀ICP备18024828号-2</a>  | MIT Licensed | Copyright © 2019-present Mr.Shu
+footerHtml: true
 ---
 
 这是项目主页的案例。你可以在这里放置你的主体内容。

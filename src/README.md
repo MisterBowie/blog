@@ -100,7 +100,8 @@ features:
     link: https://vuepress-theme-hope.github.io/v2/guide/feature/
 
 copyright: false
-footer: MIT Licensed | Copyright © 2019-present Mr.Hope
+footer: <a href="https://beian.miit.gov.cn/#/Integrated/index" target="_blank" rel="noopener noreferrer">蜀ICP备18024828号-2</a>  | MIT Licensed | Copyright © 2019-present Mr.Shu
+footerHtml: true
 ---
 
 This is an example of a project homepage. You can place your main content here.
