@@ -52,9 +52,18 @@ tag:
 2. 在修改后的运行次数函数中，只保留最高项。
 3. 如果最高项目存在不是 1，则去除与这个项相乘的常数。
 
+#### 简单练习
+
+在你的通讯录中找到你要找的人,假设通讯录中有 N 个人。
+
+两种方式，简单查找和二分查找。
+简单查找: 一个一个查找，需要查找 N 次。
+二分查找: 按照姓名的字母排序，首先查找
+
 ## `DS` 书籍以及课程推荐
 
 - [普林斯顿算法课程-视频](https://www.bilibili.com/video/BV1K4411b7jM/?spm_id_from=333.337.search-card.all.click&vd_source=15b5d076158b9fa3660fee097aff4f92)
+- [普林斯顿视频配套资料-网站](https://algs4.cs.princeton.edu/home/)
 - [慕课网-Liuyubobobo 算法体系科-视频](https://class.imooc.com/sale/datastructure?mc_marking=847f8fb5de6faa3343df639065d45b7d&mc_channel=imoocsearch)
 
 - [算法动画演示-网站](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)

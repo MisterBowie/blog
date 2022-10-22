@@ -1,7 +1,7 @@
 {
   "name": "blog",
   "version": "1.0.0",
-  "description": "记录自己学习的王章",
+  "description": "记录自己学习的文章",
   "license": "MIT",
   "type": "module",
   "scripts": {
